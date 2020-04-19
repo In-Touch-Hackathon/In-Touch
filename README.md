@@ -16,20 +16,26 @@ This is required for submission to [Skillsme 2020 Hackathon](https://skillsme.co
 Documentation for In Touch can be found at [docs.intouch.tk](https://docs.intouch.tk/)
 
 [**Getting Started**](https://docs.intouch.tk/getting-started)
+
 ⋅⋅⋅[Setup Twilio](https://docs.intouch.tk/getting-started/twilio)
 ⋅⋅⋅[Setup Firebase](https://docs.intouch.tk/getting-started/firebase)
 ⋅⋅⋅[Setup Backend](https://docs.intouch.tk/getting-started/backend)
 ⋅⋅⋅[Setup Flutter](https://docs.intouch.tk/getting-started/flutter)
+
 [**Backend**](https://docs.intouch.tk/backend)
+
 ⋅⋅⋅[Project Structure](https://docs.intouch.tk/backend/project)
 ⋅⋅⋅[Handlers](https://docs.intouch.tk/backend/handlers)
 ⋅⋅⋅[Covid19 Update](https://docs.intouch.tk/backend/covid19)
 ⋅⋅⋅[Twilio IVR](https://docs.intouch.tk/backend/twilio)
 ⋅⋅⋅[Firestore](https://docs.intouch.tk/backend/firestore)
+
 [**Flutter**](https://docs.intouch.tk/flutter)
+
 ⋅⋅⋅[How to use](https://docs.intouch.tk/flutter/how-to-use)
 ⋅⋅⋅[Features/Pages](https://docs.intouch.tk/flutter/pages)
 ⋅⋅⋅[Project Structure](https://docs.intouch.tk/flutter/project)
+
 
 ## License
 
