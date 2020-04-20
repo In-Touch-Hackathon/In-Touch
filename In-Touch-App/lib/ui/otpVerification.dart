@@ -34,7 +34,7 @@ class _OTPVerificationState extends State<OTPVerification> {
   Future<dynamic> sendVerification() async {
     currentUser = await _auth.currentUser();
     try {
-      var response = await http.post('https://intouch.tk/verify', headers: {
+      var response = await http.post('${Constants.baseURL}verify', headers: {
         'Authorization': 'Bearer ${(await currentUser.getIdToken()).token}'
       });
       print(response.statusCode);

@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
+import 'package:intouch/constants.dart';
 import 'dart:math';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -83,7 +84,11 @@ class _CallHistoryScreenState extends State<CallHistoryScreen> {
             ),
           );
         } else {
-          return CircularProgressIndicator();
+          return CircularProgressIndicator(
+            valueColor: new AlwaysStoppedAnimation<Color>(
+                Constants.secondaryColor
+            ),
+          );
         }
       }
     );

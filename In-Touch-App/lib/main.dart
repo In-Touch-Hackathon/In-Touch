@@ -4,7 +4,7 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 import 'package:intouch/constants.dart';
 import 'package:intouch/messageHandler.dart';
-import 'package:intouch/ui/homePage.dart';
+import 'package:intouch/constants.dart';
 import 'package:intouch/ui/welcomePage.dart';
 import 'package:http/http.dart' as http;
 import 'package:dynamic_theme/dynamic_theme.dart';
@@ -24,7 +24,7 @@ class InTouchAppState extends State<InTouchApp> {
   final _firestore = Firestore.instance;
 
   Future<void> _onNotification (Map<String, dynamic> message) async {
-    await http.post('https://intouch.tk/connect/${message['data']['id']}',
+    await http.post('${Constants.baseURL}connect/${message['data']['id']}',
         headers: { 'Authorization': 'Bearer ' + ((await (await _auth.currentUser()).getIdToken()).token),
           'Content-Type': 'application/json' });
   }
