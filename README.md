@@ -17,24 +17,33 @@ Documentation for In Touch can be found at [docs.intouch.tk](https://docs.intouc
 
 [**Getting Started**](https://docs.intouch.tk/getting-started)
 
-⋅⋅⋅[Setup Twilio](https://docs.intouch.tk/getting-started/twilio)
-⋅⋅⋅[Setup Firebase](https://docs.intouch.tk/getting-started/firebase)
-⋅⋅⋅[Setup Backend](https://docs.intouch.tk/getting-started/backend)
-⋅⋅⋅[Setup Flutter](https://docs.intouch.tk/getting-started/flutter)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setup Twilio](https://docs.intouch.tk/getting-started/twilio)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setup Firebase](https://docs.intouch.tk/getting-started/firebase)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setup Backend](https://docs.intouch.tk/getting-started/backend)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Setup Flutter](https://docs.intouch.tk/getting-started/flutter)
 
 [**Backend**](https://docs.intouch.tk/backend)
 
-⋅⋅⋅[Project Structure](https://docs.intouch.tk/backend/project)
-⋅⋅⋅[Handlers](https://docs.intouch.tk/backend/handlers)
-⋅⋅⋅[Covid19 Update](https://docs.intouch.tk/backend/covid19)
-⋅⋅⋅[Twilio IVR](https://docs.intouch.tk/backend/twilio)
-⋅⋅⋅[Firestore](https://docs.intouch.tk/backend/firestore)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Structure](https://docs.intouch.tk/backend/project)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Handlers](https://docs.intouch.tk/backend/handlers)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Covid19 Update](https://docs.intouch.tk/backend/covid19)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Twilio IVR](https://docs.intouch.tk/backend/twilio)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Firestore](https://docs.intouch.tk/backend/firestore)
 
 [**Flutter**](https://docs.intouch.tk/flutter)
 
-⋅⋅⋅[How to use](https://docs.intouch.tk/flutter/how-to-use)
-⋅⋅⋅[Features/Pages](https://docs.intouch.tk/flutter/pages)
-⋅⋅⋅[Project Structure](https://docs.intouch.tk/flutter/project)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[How to use](https://docs.intouch.tk/flutter/how-to-use)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Features/Pages](https://docs.intouch.tk/flutter/pages)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Project Structure](https://docs.intouch.tk/flutter/project)
 
 
 ## License
